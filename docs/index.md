@@ -6,7 +6,7 @@
 
 ---
 
-## Professional Areas of Interest:
+## Areas of Interest:
 - Software/Security Engineering
 - System Administration & DevOps
 - Penetration Testing & Red Team
