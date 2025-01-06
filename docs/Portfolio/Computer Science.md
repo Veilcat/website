@@ -1,7 +1,6 @@
 # Computer Science
 ## Bachelor's Degree
-In December 2024 I will graduate from UC Santa Cruz with a Bachelor's Degree in Computer Science.
-
+In December 2024 completed my degree requirements for a B.A. in Computer Science at UC Santa Cruz.
 
 ## Software Engineering
 ### Programming & Scripting
@@ -9,21 +8,25 @@ Proficient in:
 
 - C/C++
     - 2 C courses, 4 C++ courses (coursework is private)
-    - Wide range of projects including Tic-Tac-Toe, hash tables, quicksort, binary search trees, maze solver using Depth First Search, and a web crawler. 
+    - Wide range of projects including implementing hash tables, quicksort, mapreduce implementation, maze solver using Depth First Search, and a web crawler. 
     - Object Oriented Programming and C++ Standard Template Library
     - Comfortable with Make. Familiar with CMake.
 - [Python](https://github.com/Cam-Can-Do?tab=repositories&q=&type=&language=python&sort=)
-- [Bash](https://github.com/Cam-Can-Do?tab=repositories&q=&type=&language=shell&sort=)
+- Bash
 - Powershell
 
 Experienced in: 
 
-- HTML
-- JavaScript (Node & Express for backend, Vue for frontend)
-    - [REST API Backend with Authentication and Authorization Sample Project](https://github.com/Cam-Can-Do/REST-API-with-session-authorization)
-- Go
+- Full Stack
+    - Projects:
+        - [WebWatch](https://github.com/Fa24-CSE115A-CaaS/WebWatch)
+        - [REST API Backend with Authentication and Authorization Sample Project](https://github.com/Cam-Can-Do/REST-API-with-session-authorization)
 
-Interested in: Rust
+    - Technologies:
+        - Frontend: HTML, Vue, React
+        - Backend: Flask, FastAPI, Node/ExpressJS
+
+Interested in: Rust, Go
 
 ### CI/CD
 - Github Action ([Basic sample project, used within a larger group project](https://github.com/Cam-Can-Do/auto-release-workflow))

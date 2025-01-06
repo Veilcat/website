@@ -13,13 +13,6 @@
 
 ---
 
-## Fall 2024 Courses:
-- Distributed Systems
-- Intro Software Engineering
-- Computer Security
-
----
-
 ## Other Things I Like:
 - Walking and exercise
 - Podcasts, electronic-based music, concerts
