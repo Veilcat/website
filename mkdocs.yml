@@ -38,7 +38,7 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/Cam-Can-Do
+      link: https://github.com/veilcat
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/cameron-candau/
 
