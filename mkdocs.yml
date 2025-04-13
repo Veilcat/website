@@ -7,30 +7,30 @@ theme:
   favicon: images/favicon.png
   name: material
   features:
-    - navigation.tabs
+    #- navigation.tabs
     #- navigation.sections
-    - toc.integrate
+    #- toc.integrate
     #- navigation.top
     #- search.suggest
     #- search.highlight
     #- content.tabs.link
     - navigation.instant
-    - content.code.annotation
-    - content.code.copy
+    #- content.code.annotation
+    #- content.code.copy
   language: en
   palette:
     - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+      #toggle:
+      #  icon: material/toggle-switch
+      #  name: Switch to light mode    
       primary: black
       accent: pink
     - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: red
-      accent: purple 
+      #toggle:
+      # icon: material/toggle-switch-off-outline 
+      #  name: Switch to dark mode
+      #primary: red
+      #accent: purple 
 
 plugins:
   - social
@@ -43,6 +43,8 @@ extra:
       link: https://www.linkedin.com/in/cameron-candau/
 
 markdown_extensions:
+  - toc:
+      toc_depth: 0
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
