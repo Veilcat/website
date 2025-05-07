@@ -1,6 +1,6 @@
 # About Me
-- Passionate about software, security and productivity.
-- Open-source software enthusiast, digital minimalist.
+- Passionate about software, security and productivity
+- Open-source software enthusiast, digital minimalist
 
 ---
 
